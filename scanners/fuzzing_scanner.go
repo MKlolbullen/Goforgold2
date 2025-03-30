@@ -1,4 +1,4 @@
-// backend/scanners/fuzzing_scanner.go - Fuzzing with ffuf using a wordlist.
+// /scanners/fuzzing_scanner.go - Fuzzing with ffuf using a wordlist.
 package scanners
 
 import (
